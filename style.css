@@ -3,9 +3,7 @@ body{
     font-family: 'Poppins', sans-serif !important;
     background: #eff3f8;
 }
-.container{
-    padding-top: 150px;
-}
+
 h2{
     text-align: center;
     padding: 20px;
@@ -46,7 +44,4 @@ h2{
 }
 .slick-initialized .slick-slide{
     display: block;
-}
-.copy{
-    padding-top: 250px;
 }
